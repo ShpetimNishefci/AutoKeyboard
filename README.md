@@ -13,11 +13,11 @@ Works in background
 
 Features
 --------
--Auto Text
--Portable
--Save Settings
--Load Settings
--Easy modify settings
--Works in background
--Free and Open Source
+- Auto Text
+- Portable
+- Save Settings
+- Load Settings
+- Easy modify settings
+- Works in background
+- Free and Open Source
 
